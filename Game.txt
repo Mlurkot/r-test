@@ -1,3 +1,5 @@
 
 
 print ("ya sdelal lanshaft"):
+ya krutoy hehehe
+444
